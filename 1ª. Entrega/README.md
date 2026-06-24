@@ -40,7 +40,7 @@ O projeto seguiu uma abordagem de:
 
 ## Conteúdo Implementado
 
-O relatório está dividido em três partes principais. :contentReference[oaicite:1]{index=1}
+O relatório está dividido em três partes principais.
 
 ### 1. Modelação Entidade-Associação
 
