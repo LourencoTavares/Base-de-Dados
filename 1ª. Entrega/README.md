@@ -18,7 +18,7 @@ O sistema permite representar informação sobre:
 - funcionários, tratadores e funcionários de limpeza;
 - alocações temporais de funcionários a recintos.
 
-O foco desta entrega foi a **modelação conceptual e relacional da base de dados**, garantindo que o modelo respeita as regras do domínio descritas no enunciado. :contentReference[oaicite:0]{index=0}
+O foco desta entrega foi a **modelação conceptual e relacional da base de dados**, garantindo que o modelo respeita as regras do domínio descritas no enunciado. 
 
 ---
 
